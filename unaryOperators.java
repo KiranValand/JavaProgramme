@@ -11,7 +11,7 @@ public class unaryOperators {
         System.out.println(a++); // prints 999
         System.out.println(++a); // prints 1001
         //   //this codee will show decremented number
-        System.out.println(--a); // prints 1000
+        System.out.println(a--); // prints 1001
         System.out.println(--a); // prints 999
         out.println(!b); // should print false as boolean b is  set to 'true' by default
 
